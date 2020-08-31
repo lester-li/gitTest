@@ -1,5 +1,6 @@
 hello , world!
 
-git is a distributed versions management.
+git is distributed. 
+so it is popular.
 
- 
+the end of the file.
