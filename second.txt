@@ -1,5 +1,7 @@
 this is second text.
 
-some content
+some content.
+
+staged content back.
 
 this is end of text.
