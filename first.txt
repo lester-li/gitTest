@@ -12,3 +12,5 @@ add content to index.
 i am master.
 hello, i am dev.
 
+
+add content in new dev 
