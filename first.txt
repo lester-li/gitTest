@@ -1,18 +1,5 @@
 hello , world!
 
-git is distributed. 
-so it is popular.
-
-modified this file.
-
-the end of the file.
-
-add content to index.
-
-i am master.
-hello, i am dev.
-
-
-add content in new dev 
+fix bug. delete some content
 
 add in no-ff 
