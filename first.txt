@@ -8,14 +8,3 @@ modified this file.
 the end of the file.
 
 add content to index.
-
-push 1
-
-
-push 2
-
-branch dev add 1
-
-dev add 100
-
-dev add 101
